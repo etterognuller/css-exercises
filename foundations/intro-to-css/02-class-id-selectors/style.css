@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.one.three.five {
+background-color: hsla(360, 100%, 50%, 0.5);
+font-family: Verdana, DejaVuSans, sans-serif;
+}
+
+#numtwo{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
