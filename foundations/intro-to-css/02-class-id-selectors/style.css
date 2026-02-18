@@ -1,5 +1,5 @@
 /* Add CSS Styling */
-.one.three.five {
+.one,.three,.five{
 background-color: hsla(360, 100%, 50%, 0.5);
 font-family: Verdana, DejaVuSans, sans-serif;
 }
@@ -7,4 +7,12 @@ font-family: Verdana, DejaVuSans, sans-serif;
 #numtwo{
     color: rgb(0, 0, 255);
     font-size: 36px;
+}
+.three{
+font-size: 24px
+}
+#numfour{
+    background-color: hsla(120, 100%, 50%, 0.5);
+    font-size: 24px;
+    font-weight: 700;
 }
